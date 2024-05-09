@@ -37,7 +37,7 @@
 ⚡Projem hem .feature uzantılı file'dan hem de Runners class'ından ayağa kaldırılabilmektedir. <br>
 ⚡Projenin ayağa kalkmasından sonra test adımları çalışarak sırasıyla .feature dosyasındaki adımlar gerçekleşmektedir. <br>
 ⚡Aşağıdaki linkte testin koşum videosu bulunmaktadır. <br>
-[test_case12.zip](https://github.com/AliihsanSen/Moneytolia_TestCase/files/15261641/test_case12.zip)
+  [test_case12.zip](https://github.com/AliihsanSen/Moneytolia_TestCase/files/15261641/test_case12.zip)
 
 ### Raporlama
 ⚡'runners' package'ı altındaki Runner class'ındaki plugin sayesinde kod her çalıştığında 'target' klasörünün altında .html uzantılı bir dosya oluşturularak raporlarım bu dosyaya kaydedildi. <br>
@@ -50,6 +50,12 @@
 
 
 ### 2️⃣ Manuel Test Case Yazımı
+⚡Manuel test case'leri 'Microsoft Excel Çalışma Sayfasında' oluşturdum. <br>
+⚡Manuel test case yazarken minimum test step'i ile maksimum alanı test etmeye odaklandım. <br>
+⚡Manuel test case'lerimde US_001'de pozitif / negatif  'Para Yatırma' testinin senaryosunu oluştururken US_002'de pozitif / negatif 'Para Gönderme' test senaryoları oluşturdum. <br>
+⚡Manuel test case'lerimi Otomasyon Test projemin içerisine ekledim. <br> <br>
+![image](https://github.com/AliihsanSen/Moneytolia_TestCase/assets/111094912/f5c141a2-e561-466f-9964-68c091a8d175)
+
 
 
 
