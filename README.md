@@ -26,7 +26,7 @@
 
 ### Kodlama
 ⚡Kodlarımı yazarken solid prensiplerine uygun olarak clean kod yazmaya dikkat ettim. <br>
-⚡Verilen task kapsamında ilgili sitenin locate'lerini alarak 'AllProductsPage', 'CheckoutPage' ve 'loginPage' class'larına koydum ve daha sonra bu class'tan oluşturduğum obje ile bu locate'leri kullandım. <br>
+⚡Verilen task kapsamında ilgili sitenin locate'lerini alarak 'AllProductsPage', 'CheckoutPage' ve 'LoginPage' class'larına koydum ve daha sonra bu class'tan oluşturduğum obje ile bu locate'leri kullandım. <br>
 ⚡'features' package'ının altında oluşturduğum .feature uzantılı dosyada test steplerini Gherkin Language ile yazdım. <br>
 ⚡.feature uzantılı dosyada yazdığım steplerin kodlarını 'AmazonStepDefinitions' class'ında yazdım. <br>
 ⚡Gherkin Language ile oluşturduğum steplerde bazı değerleri parametreli oluşturarak daha dinamik bir kod yazımını hedefledim. <br> <br>
